@@ -80,7 +80,6 @@ cd python-sqlite-helpdesk-tool
 
 
 اجرای اسکریپت پایتون:
-
 python helpdesk_tool.py
 
 
